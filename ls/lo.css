@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    border: 6px dashed red;
+}
+.pr {
+    color: red;
+    font-size: 100px;
+    position: relative;
+    left: 40px;
+}
+.one {
+    color: blue;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
